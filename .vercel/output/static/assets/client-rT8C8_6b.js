@@ -1,0 +1,1 @@
+import{n as e}from"./routes-BPcOIQFZ.js";export{e as getBearerToken};
